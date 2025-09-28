@@ -1,16 +1,16 @@
-Sobre mí
+**Sobre mí**
 
 Soy Pablo Gandul Igual, estudiante en el Conservatorio Profesional de Música de Valencia, cursando actualmente 3º EEPP en saxofón y 2º EEPP en piano. Llevo 7 años tocando saxofón y 6 años tocando piano, y he enseñado lenguaje musical a alumnos principiantes. Me interesa la tecnología educativa y cómo aplicarla para crear experiencias de aprendizaje musical innovadoras.
 
 Como creador de MusicIAn, lidero la concepción pedagógica, la implementación de contenido y la integración de inteligencia artificial para generar ejercicios adaptativos y evaluar la interpretación de los alumnos en tiempo real.
 
-Resumen
+**Resumen**
 
 MusicIAn es una plataforma web de aprendizaje musical que combina teoría, práctica instrumental y comunidad, integrando IA para generar ejercicios adaptativos y analizar la interpretación en tiempo real.
 
 MusicIAn permite a los estudiantes crecer en su práctica musical de manera constante y motivadora, con ejercicios y lecciones que no requieren habilidades avanzadas desde el inicio. Aunque existen otras plataformas que usan IA en educación musical, MusicIAn se distingue por su enfoque integral: teoría, práctica instrumental y comunidad en un solo espacio, ofreciendo una experiencia de aprendizaje personalizada e innovadora.
 
-Problema u oportunidad
+**Problema u oportunidad**
 
 El aprendizaje musical tradicional presenta varias barreras:
 
@@ -24,7 +24,7 @@ Oferta digital insuficiente: las plataformas actuales se limitan a videos o ejer
 
 MusicIAn ofrece una solución accesible, flexible y personalizada mediante IA, transformando la forma de aprender música.
 
-Objetivos
+**Objetivos**
 
 Democratizar el acceso a la educación musical a nivel global.
 
@@ -36,7 +36,7 @@ Desarrollar una comunidad de aprendizaje activa y colaborativa.
 
 Escalar a otros instrumentos mediante la colaboración con músicos expertos.
 
-Metodología
+**Metodología**
 
 Desarrollo inicial en formato web, con posterior expansión a app móvil.
 
@@ -48,7 +48,7 @@ Producción de lecciones en video con músicos expertos.
 
 Diseño de foros, retos y espacios comunitarios para motivación y práctica colaborativa.
 
-Resultados esperados / impacto
+**Resultados esperados / impacto**
 
 Lanzamiento de un MVP en corto plazo para validar el modelo y captar usuarios.
 
