@@ -1,4 +1,5 @@
-#MusicIAn#
+#MusicIAn
+
 **Sobre mí**
 
 Soy Pablo Gandul Igual, estudiante del Conservatorio Profesional de Música de Valencia, cursando actualmente 3º EEPP en saxofón y 2º EEPP en piano. Llevo 7 años tocando saxofón y 6 años tocando piano, y he enseñado lenguaje musical a alumnos principiantes. Me interesa la tecnología educativa y cómo aplicarla para crear experiencias de aprendizaje musical innovadoras.
