@@ -1,28 +1,3 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8">
-  <title>MusicIAn</title>
-  <style>
-    body { font-family: Arial, sans-serif; background: #f7f7f7; margin: 0; padding: 0; }
-    .container { max-width: 800px; margin: 40px auto; background: #fff; border-radius: 8px; box-shadow: 0 2px 8px #ccc; padding: 32px; }
-    h1 { color: #333; }
-    p { color: #555; line-height: 1.5; }
-    .screenshots { display: flex; gap: 16px; flex-wrap: wrap; margin: 24px 0; }
-    .screenshots img { width: 240px; height: auto; border-radius: 6px; box-shadow: 0 1px 4px #aaa; }
-    .cta { margin-top: 32px; }
-    .cta button { background: #2d8cff; color: white; border: none; padding: 12px 32px; font-size: 1.2em; border-radius: 5px; cursor: pointer; }
-    .cta button:hover { background: #1976d2; }
-  </style>
-</head>
-<body>
-  <div class="container">
-    <h1>MusicIAn</h1>
-    <p>
-      MusicIAn
-
-Inteligencia Artificial para la educación musical
-
 Sobre mí
 
 Soy Pablo Gandul Igual, estudiante en el Conservatorio Profesional de Música de Valencia, cursando actualmente 3º EEPP en saxofón y 2º EEPP en piano. Llevo 7 años tocando saxofón y 6 años tocando piano, y he enseñado lenguaje musical a alumnos principiantes. Me interesa la tecnología educativa y cómo aplicarla para crear experiencias de aprendizaje musical innovadoras.
