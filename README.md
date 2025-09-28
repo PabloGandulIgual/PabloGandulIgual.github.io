@@ -7,7 +7,7 @@
 **Resumen**
 
     MusicIAn es una plataforma web de aprendizaje musical que combina teoría, práctica instrumental y comunidad, integrando IA para generar ejercicios adaptativos y analizar la interpretación en tiempo real.
-    MusicIAn permite a sus usuarios crecer en su práctica musical de manera constante y motivadora, con ejercicios y lecciones que no requieren habilidades avanzadas desde el inicio. Aunque existen otras plataformas que usan IA en educación musical, MusicIAn se distingue por su enfoque integral: teoría, práctica instrumental y comunidad en un solo espacio, ofreciendo una experiencia de aprendizaje personalizada e innovadora.
+MusicIAn permite a sus usuarios crecer en su práctica musical de manera constante y motivadora, con ejercicios y lecciones que no requieren habilidades avanzadas desde el inicio. Aunque existen otras plataformas que usan IA en educación musical, MusicIAn se distingue por su enfoque integral: teoría, práctica instrumental y comunidad en un solo espacio, ofreciendo una experiencia de aprendizaje personalizada e innovadora.
 
 
 **Problema u oportunidad**
