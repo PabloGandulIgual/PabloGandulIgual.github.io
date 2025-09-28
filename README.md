@@ -1,14 +1,17 @@
 **Sobre mí**
+
     Soy Pablo Gandul Igual, estudiante en el Conservatorio Profesional de Música de Valencia, cursando actualmente 3º EEPP en saxofón y 2º EEPP en piano. Llevo 7 años tocando saxofón y 6 años tocando piano, y he enseñado lenguaje musical a alumnos principiantes. Me interesa la tecnología educativa y cómo aplicarla para crear experiencias de aprendizaje musical innovadoras.
     Como creador de MusicIAn, lidero la concepción pedagógica, la implementación de contenido y la integración de inteligencia artificial para generar ejercicios adaptativos y evaluar la interpretación de los alumnos en tiempo real.
 
 
 **Resumen**
+
     MusicIAn es una plataforma web de aprendizaje musical que combina teoría, práctica instrumental y comunidad, integrando IA para generar ejercicios adaptativos y analizar la interpretación en tiempo real.
     MusicIAn permite a los estudiantes crecer en su práctica musical de manera constante y motivadora, con ejercicios y lecciones que no requieren habilidades avanzadas desde el inicio. Aunque existen otras plataformas que usan IA en educación musical, MusicIAn se distingue por su enfoque integral: teoría, práctica instrumental y comunidad en un solo espacio, ofreciendo una experiencia de aprendizaje personalizada e innovadora.
 
 
 **Problema u oportunidad**
+
     El aprendizaje musical tradicional presenta varias barreras:
 - Accesibilidad limitada: las clases presenciales suelen ser costosas y dependen de la disponibilidad de profesores.
 - Rigidez: los métodos convencionales no se adaptan al ritmo ni nivel del estudiante.
@@ -18,6 +21,7 @@
 
 
 **Objetivos**
+
 - Democratizar el acceso a la educación musical a nivel global.
 - Lanzar una primera versión web en pocos meses con piano, saxofón y teoría musical.
 - Implementar IA para crear ejercicios adaptativos y evaluar la interpretación en tiempo real.
@@ -26,6 +30,7 @@
 
 
 **Metodología**
+
 - Desarrollo inicial en formato web, con posterior expansión a app móvil.
 - Modelo freemium: acceso gratuito a contenidos básicos y suscripción de pago para funciones avanzadas.
 - IA aplicada tanto a la generación de ejercicios personalizados como al análisis de ejecución mediante audio.
@@ -34,6 +39,7 @@
 
 
 **Resultados esperados / impacto**
+
 - Lanzamiento de un MVP en corto plazo para validar el modelo y captar usuarios.
 - Una plataforma innovadora y pionera en el enfoque integral de IA en educación musical, combinando teoría, práctica y comunidad.
 - Mayor motivación y retención de estudiantes gracias a la personalización y retroalimentación inmediata.
