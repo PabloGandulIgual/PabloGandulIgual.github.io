@@ -1,18 +1,18 @@
 **Sobre mí**
 
-    Soy Pablo Gandul Igual, estudiante del Conservatorio Profesional de Música de Valencia, cursando actualmente 3º EEPP en saxofón y 2º EEPP en piano. Llevo 7 años tocando saxofón y 6 años tocando piano, y he enseñado lenguaje musical a alumnos principiantes. Me interesa la tecnología educativa y cómo aplicarla para crear experiencias de aprendizaje musical innovadoras.
-    Como creador de MusicIAn, lidero la concepción pedagógica, la implementación de contenido y la integración de inteligencia artificial para generar ejercicios adaptativos y evaluar la interpretación de los alumnos en tiempo real.
+Soy Pablo Gandul Igual, estudiante del Conservatorio Profesional de Música de Valencia, cursando actualmente 3º EEPP en saxofón y 2º EEPP en piano. Llevo 7 años tocando saxofón y 6 años tocando piano, y he enseñado lenguaje musical a alumnos principiantes. Me interesa la tecnología educativa y cómo aplicarla para crear experiencias de aprendizaje musical innovadoras.
+Como creador de MusicIAn, lidero la concepción pedagógica, la implementación de contenido y la integración de inteligencia artificial para generar ejercicios adaptativos y evaluar la interpretación de los alumnos en tiempo real.
 
 
 **Resumen**
 
-    MusicIAn es una plataforma web de aprendizaje musical que combina teoría, práctica instrumental y comunidad, integrando IA para generar ejercicios adaptativos y analizar la interpretación en tiempo real.
+MusicIAn es una plataforma web de aprendizaje musical que combina teoría, práctica instrumental y comunidad, integrando IA para generar ejercicios adaptativos y analizar la interpretación en tiempo real.
 MusicIAn permite a sus usuarios crecer en su práctica musical de manera constante y motivadora, con ejercicios y lecciones que no requieren habilidades avanzadas desde el inicio. Aunque existen otras plataformas que usan IA en educación musical, MusicIAn se distingue por su enfoque integral: teoría, práctica instrumental y comunidad en un solo espacio, ofreciendo una experiencia de aprendizaje personalizada e innovadora.
 
 
 **Problema u oportunidad**
 
-    El aprendizaje musical tradicional presenta varias barreras:
+El aprendizaje musical tradicional presenta varias barreras:
 - Accesibilidad limitada: las clases presenciales suelen ser costosas y dependen de la disponibilidad de profesores.
 - Rigidez: los métodos convencionales no se adaptan al ritmo ni nivel del estudiante.
 - Falta de motivación: muchos abandonan al no recibir retroalimentación inmediata ni ver progresos claros.
