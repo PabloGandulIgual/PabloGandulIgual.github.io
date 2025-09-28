@@ -4,10 +4,12 @@ Soy Pablo Gandul Igual, estudiante del Conservatorio Profesional de Música de V
 Como creador de MusicIAn, lidero la concepción pedagógica, la implementación de contenido y la integración de inteligencia artificial para generar ejercicios adaptativos y evaluar la interpretación de los alumnos en tiempo real.
 
 
+
 **Resumen**
 
 MusicIAn es una plataforma web de aprendizaje musical que combina teoría, práctica instrumental y comunidad, integrando IA para generar ejercicios adaptativos y analizar la interpretación en tiempo real.
 MusicIAn permite a sus usuarios crecer en su práctica musical de manera constante y motivadora, con ejercicios y lecciones que no requieren habilidades avanzadas desde el inicio. Aunque existen otras plataformas que usan IA en educación musical, MusicIAn se distingue por su enfoque integral: teoría, práctica instrumental y comunidad en un solo espacio, ofreciendo una experiencia de aprendizaje personalizada e innovadora.
+
 
 
 **Problema u oportunidad**
@@ -20,6 +22,7 @@ El aprendizaje musical tradicional presenta varias barreras:
 - MusicIAn ofrece una solución accesible, flexible y personalizada mediante IA, transformando la forma de aprender música.
 
 
+
 **Objetivos**
 
 - Democratizar el acceso a la educación musical a nivel global.
@@ -29,6 +32,7 @@ El aprendizaje musical tradicional presenta varias barreras:
 - Escalar a otros instrumentos mediante la colaboración con músicos expertos.
 
 
+
 **Metodología**
 
 - Desarrollo inicial en formato web, con posterior expansión a app móvil.
@@ -36,6 +40,7 @@ El aprendizaje musical tradicional presenta varias barreras:
 - IA aplicada tanto a la generación de ejercicios personalizados como al análisis de ejecución mediante audio.
 - Producción de lecciones en video con músicos expertos.
 - Diseño de foros, retos y espacios comunitarios para motivación y práctica colaborativa.
+
 
 
 **Resultados esperados / impacto**
