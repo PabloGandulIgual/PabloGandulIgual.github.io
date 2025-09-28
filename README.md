@@ -1,13 +1,13 @@
 **Sobre mí**
 
-    Soy Pablo Gandul Igual, estudiante en el Conservatorio Profesional de Música de Valencia, cursando actualmente 3º EEPP en saxofón y 2º EEPP en piano. Llevo 7 años tocando saxofón y 6 años tocando piano, y he enseñado lenguaje musical a alumnos principiantes. Me interesa la tecnología educativa y cómo aplicarla para crear experiencias de aprendizaje musical innovadoras.
+    Soy Pablo Gandul Igual, estudiante del Conservatorio Profesional de Música de Valencia, cursando actualmente 3º EEPP en saxofón y 2º EEPP en piano. Llevo 7 años tocando saxofón y 6 años tocando piano, y he enseñado lenguaje musical a alumnos principiantes. Me interesa la tecnología educativa y cómo aplicarla para crear experiencias de aprendizaje musical innovadoras.
     Como creador de MusicIAn, lidero la concepción pedagógica, la implementación de contenido y la integración de inteligencia artificial para generar ejercicios adaptativos y evaluar la interpretación de los alumnos en tiempo real.
 
 
 **Resumen**
 
     MusicIAn es una plataforma web de aprendizaje musical que combina teoría, práctica instrumental y comunidad, integrando IA para generar ejercicios adaptativos y analizar la interpretación en tiempo real.
-    MusicIAn permite a los estudiantes crecer en su práctica musical de manera constante y motivadora, con ejercicios y lecciones que no requieren habilidades avanzadas desde el inicio. Aunque existen otras plataformas que usan IA en educación musical, MusicIAn se distingue por su enfoque integral: teoría, práctica instrumental y comunidad en un solo espacio, ofreciendo una experiencia de aprendizaje personalizada e innovadora.
+    MusicIAn permite a sus usuarios crecer en su práctica musical de manera constante y motivadora, con ejercicios y lecciones que no requieren habilidades avanzadas desde el inicio. Aunque existen otras plataformas que usan IA en educación musical, MusicIAn se distingue por su enfoque integral: teoría, práctica instrumental y comunidad en un solo espacio, ofreciendo una experiencia de aprendizaje personalizada e innovadora.
 
 
 **Problema u oportunidad**
